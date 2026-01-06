@@ -10,7 +10,7 @@ const drama = {
   production: "롯데컬처웍스",
   director: "김상호",
   writer: "유영아",
-  cast: "손예진, 전미도, 김지현 外",
+  cast: "채예진, 전미도, 김지현 外",
   streaming: "TVING · NETFLIX",
   rating: "15세 이상"
 };
